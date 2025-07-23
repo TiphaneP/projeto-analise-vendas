@@ -11,10 +11,9 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 
 ##  Estrutura
 
-- `notebooks/`: contém o notebook principal com todas as análises e visualizações.
+- `Analise_dados.ipynb`: contém o notebook principal com todas as análises e visualizações.
 - `data/`: contém o dataset original.
 - `imgs/`:  imagens de gráficos gerados.
-- `requirements.txt`: bibliotecas utilizadas no projeto.
 
 ---
 
