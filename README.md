@@ -3,13 +3,13 @@
  
 Este repositório contém a entrega do **primeiro projeto prático** desenvolvido em grupo na trilha de **Engenharia de Dados** do programa **Desenvolve** do Grupo Boticário em parceria com a **Koru**.
 
-# 🧠 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv), com o objetivo de extrair **insights de mercado**, visualizar padrões de consumo e identificar oportunidades para o negócio.
 
 ---
 
-# 📂 Estrutura
+##  Estrutura
 
 - `notebooks/`: contém o notebook principal com todas as análises e visualizações.
 - `data/`: contém o dataset original.
@@ -18,7 +18,7 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 
 ---
 
-# 🚀 Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - Python 🐍
 - Pandas
