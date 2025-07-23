@@ -51,7 +51,8 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 - Produtos como **Trains e Ships** possuem vendas menores e podem ser reavaliados.
 
 ---
-🤝 Agradecimentos
+##🤝 Agradecimentos
+
 Projeto desenvolvido em grupo sob orientação de:
 
 👨‍🏫 Professor Thiago Kuma
