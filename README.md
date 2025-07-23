@@ -51,9 +51,20 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 - Produtos como **Trains e Ships** possuem vendas menores e podem ser reavaliados.
 
 ---
+🤝 Agradecimentos
+Projeto desenvolvido em grupo sob orientação de:
 
+👨‍🏫 Professor Thiago Kuma
+
+🧑‍💻 Tutores: Vitor Ramos e Gustavo Lins
+
+👥 Integrantes do grupo: Típhane Pereira, Renata Pagnotto, Priscilla Feitosa.
+
+---
 ## 📚 Como Executar o Projeto
 
 1. Clone este repositório:
 ```bash
 git clone https://github.com/TiphaneP/projeto-analise-vendas.git
+
+
