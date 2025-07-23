@@ -1,0 +1,105 @@
+﻿Documentação 
+
+
+ Histórico do Projeto
+Este projeto faz parte do programa Desenvolve do Grupo Boticário em parceria com a Koru de Engenharia de Dados, no qual o objetivo é aplicar conceitos de:
+* Leitura e análise de dados com Python
+
+* Manipulação de dados com pandas e NumPy
+
+* Visualização com matplotlib
+
+* Boas práticas de programação e Clean Code
+
+* Desenvolvimento de relatórios e Insights de negócio
+
+A base de dados foi obtida da plataforma Kaggle, no conjunto:
+🔗 Sample Sales Data
+ Descrição da Base de Dados
+A base possui 2823 registros de vendas e 25 colunas, incluindo:
+   * ORDERNUMBER, ORDERDATE: informações da venda
+
+   * PRODUCTLINE, PRODUCTCODE: produto e categoria
+
+   * QUANTITYORDERED, PRICEEACH: quantidade e preço unitário
+
+   * SALES: valor da venda
+
+   * COUNTRY, CUSTOMERNAME, DEALSIZE: cliente e país
+
+Etapas Realizadas
+ 1. Leitura e Limpeza de Dados
+      * Leitura do arquivo CSV no Google Colab
+
+      * Conversão da coluna ORDERDATE para o formato datetime
+
+      * Verificação e análise de valores nulos
+
+      * Ajustes em tipos de dados quando necessário
+
+      * Criação da coluna TOTAL_CALCULADO = QUANTITYORDERED * PRICEEACH
+
+ 2. Exploração Inicial
+         * Visualização com df.head(), df.info() e df.describe()
+
+         * Análise do volume de vendas por tipo de produto, país e período
+
+ 3. Estruturas de Programação (exigência pedagógica)
+            * Criação de listas, dicionários e tuplas
+
+            * Uso de if, for, while e manipulação de arrays NumPy
+
+ 4. Visualizações Criadas
+               1. Gráfico de Pizza: Faturamento total por linha de produto
+
+               2. Gráfico de Barras Empilhadas: Quantidade por linha de produto ao longo dos trimestres
+
+               3. Gráfico de Barras Agrupadas: Produtos mais vendidos por país
+
+               4. Gráfico de Pizza: Participação dos países no total vendido (em valor)
+
+ Principais Insights
+                  * Classic Cars representa a maior parte do faturamento da empresa
+
+                  * Motorcycles e Vintage Cars têm boas vendas, mas são sazonais
+
+                  * Certos produtos têm alta performance apenas em determinados trimestres
+
+                  * Países como EUA, França e Japão concentram as maiores fatias de venda
+
+                  * Há espaço para otimizar vendas em mercados pouco explorados como Austrália
+
+
+
+ Conclusões Finais
+                     * A empresa pode concentrar esforços de marketing em produtos de alta venda trimestral
+
+                     * Há oportunidades em nichos sazonais, como barcos ou aviões em meses específicos
+
+                     * O país com maior venda não necessariamente tem o maior ticket médio
+
+                     * O projeto demonstra como exploração e visualização de dados são fundamentais para a tomada de decisão
+
+ Tecnologias Utilizadas
+Ferramenta
+	Finalidade
+	Python
+	Linguagem principal
+	Google Colab
+	Ambiente de desenvolvimento
+	Pandas
+	Manipulação e limpeza de dados
+	NumPy
+	Cálculos numéricos
+	Matplotlib
+	Visualização de dados
+	Markdown
+	Documentação e relatórios
+	 Arquivos do Projeto
+                        * sales_data_sample.csv – arquivo principal de dados
+
+                        * Relatório  .ipynb – notebook com gráficos e análises
+
+                        * Relatório Final.md – relatório descritivo e insights (em Markdown)
+
+                        * README.md – descrição do projeto ( GitHub)
