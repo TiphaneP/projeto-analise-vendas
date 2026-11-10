@@ -19,7 +19,7 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 
 ##  Ferramentas Utilizadas
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -27,7 +27,7 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 
 ---
 
-## 🔍 Principais Análises
+##  Principais Análises
 
 1. **Vendas por Tipo de Produto (Gráfico de Pizza)**  
    → Mostra a participação percentual de cada linha de produto nas vendas.
@@ -43,7 +43,7 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 
 ---
 
-## 💡 Insights Descobertos
+##  Insights Descobertos
 
 - **"Classic Cars"** lideram as vendas totais, com forte presença em vários mercados.
 - **"Motorcycles"** apresentam padrão sazonal — vendem mais em determinados trimestres.
@@ -51,18 +51,18 @@ Explorar e analisar um conjunto de dados reais de vendas (sales_data_sample.csv)
 - Produtos como **Trains e Ships** possuem vendas menores e podem ser reavaliados.
 
 ---
-##🤝 Agradecimentos
+## Agradecimentos
 
 Projeto desenvolvido em grupo sob orientação de:
 
-👨‍🏫 Professor Thiago Kuma
+ Professor Thiago Kuma
 
-🧑‍💻 Tutores: Vitor Ramos e Gustavo Lins
+ Tutores: Vitor Ramos e Gustavo Lins
 
-👥 Integrantes do grupo: Típhane Pereira, Renata Pagnotto, Priscilla Feitosa.
+ Integrantes do grupo: Típhane Pereira, Renata Pagnotto, Priscilla Feitosa.
 
 ---
-## 📚 Como Executar o Projeto
+##  Como Executar o Projeto
 
 1. Clone este repositório:
 ```bash
